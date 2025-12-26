@@ -104,6 +104,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ---
 
 **Stars and feedback appreciated!** ⭐  
-For questions: sanjay.r2024c@vitstudent.ac.in
+For questions: ss.ramsanjay@gmail.com
 
 *Last updated: December 26, 2025*
